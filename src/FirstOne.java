@@ -3,6 +3,8 @@ public class FirstOne {
         System.out.println(
 
                "Hello World"
+          
         );
+        System.out.println("It is totally Java");
     }
 }
